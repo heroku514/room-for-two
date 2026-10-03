@@ -5,3 +5,4 @@
 - No pipeline app was rejected. Button the Coat and the earlier apps were still Waiting for Review.
 - Search hits were My Town Beach Picnic, Baby Hazel Family Picnic, and Picnic with Friends. Those are open-ended picnic scenes, not a two-seat limit.
 - Stack choice: Expo SDK 57. The screen is local state plus Async Storage.
+- Store name Room for Two was already used. The Picnic Blanket was free. The phone still shows Room for Two. Bundle id resource `F6UM8JM8V2`.
