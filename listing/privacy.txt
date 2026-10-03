@@ -1,0 +1,5 @@
+Room for Two privacy
+
+Room for Two stores the current blanket on this phone. Zero, one, or two people are seated, and the last person to sit is remembered.
+
+The app does not collect personal data. It does not use an account, ads, a camera, a clock, or a network connection. Nothing is sent off the phone.
